@@ -1,0 +1,255 @@
+{
+  "basics": {
+    "name": "Lourenço Gouveia Faria",
+    "label": "Aerospace Engineering Student",
+    "image": "",
+    "email": "lourencogfaria@gmail.com",
+    "url": "https://louxonline.github.io",
+    "summary": "Born in São Miguel island from the Azores, Portugal, and on a journey to learn more about the engineering world and its impact on society.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "PT",
+      "region": "Lisbon Metropolitan Area"
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Instituto Superior Técnico",
+      "location": "Lisbon, Portugal",
+      "url": "https://tecnico.ulisboa.pt/en/education/courses/undergraduate-programmes/aerospace-engineering/",
+      "area": "Aerospace Engineering",
+      "studyType": "Bachelor's degree",
+      "startDate": "2021-10-01",
+      "endDate": "2024-07-19",
+      "score": "15.75",
+      "courses": ["Grade: 15.74/20"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "C",
+        "Python"
+      ]
+    },
+    {
+      "name": "Software development",
+      "level": "Master",
+      "icon": "fa-solid fa-laptop-code",
+      "keywords": [
+        "GitHub",
+        "Git"
+      ]
+    },
+    {
+      "name": "Numeric computation",
+      "level": "Master",
+      "icon": "fa-solid fa-chart-line",
+      "keywords": [
+        "MATLAB",
+        "Simulink",
+        "Wolfram Mathematica",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Documentation",
+      "level": "Master",
+      "icon": "fa-solid fa-file",
+      "keywords": [
+        "LaTeX",
+        "Overleaf",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "name": "Rocketry software",
+      "level": "Master",
+      "icon": "fa-solid fa-rocket",
+      "keywords": [
+        "RocketPy",
+        "OpenRocket"
+      ]
+    },
+    {
+      "name": "CAD",
+      "level": "Master",
+      "icon": "fa-solid fa-computer",
+      "keywords": [
+        "Solidworks"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Acrobat: A Free-flyer for In-Orbit Additive Manufacturing",
+      "summary": "",
+      "highlights": ["Model Predictive Controller", "Robot Operating System"],
+      "startDate": "2024-01-02",
+      "endDate": "",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Rocket Experiment Division - Navigation Systems",
+      "summary": "",
+      "highlights": ["Kalman Filter", "Data analysis"],
+      "startDate": "2022-04-12",
+      "endDate": "",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Astro Pi Mission Space Lab 2020/2021: Earth's magnetic field study",
+      "summary": "Challenge run by the European Space Agency, in cooperation with the Raspberry Foundation, in which students are challenged to plan and perform an experiment with the use of a Raspberry Pi, named Astro Pi, on board the International Space Station. Our team developed an algorithm that predicts the location of Earth's magnetic poles by using the Astro Pi to map Earth’s magnetic field.",
+      "highlights": ["Raspberry Pi", "Python", "Eletromagnetism"],
+      "startDate": "2020-10-12",
+      "endDate": "2021-06-30",
+      "url": "https://example.com"
+    }
+  ],
+  "work": [
+    {
+      "name": "Observatório Astronómico de Santana, Açores",
+      "position": "OTLJ Summer programme",
+      "url": "https://oasa.centrosciencia.azores.gov.pt/",
+      "startDate": "2020-08-01",
+      "endDate": "2020-08-31",
+      "summary": "Worked as a receptionist and helped with the logistics of the space, including night observations.",
+      "highlights": ["Receptionist", "Inventory management", "Night observations"]
+    },
+    {
+      "name": "Observatório Astronómico de Santana, Açores",
+      "position": "OTLJ Summer programme",
+      "url": "https://oasa.centrosciencia.azores.gov.pt/",
+      "startDate": "2019-08-01",
+      "endDate": "2019-08-31",
+      "summary": "Worked as a receptionist and helped with the logistics of the space, including night observations.",
+      "highlights": ["Receptionist", "Inventory management", "Night observations"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "C2 Proficiency",
+      "date": "2024-01-23",
+      "issuer": "Cambridge University Press & Assessment English",
+      "url": "https://www.cambridgeenglish.org/exams-and-tests/proficiency/",
+      "icon": "fa-solid fa-language"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Payload award & 2nd Overall",
+      "date": "2023-10-16",
+      "awarder": "EuRoC",
+      "url": "https://euroc.pt/wp-content/uploads/2023/10/awards-lst.pdf",
+      "summary": ""
+    },
+    {
+      "title": "S3 flight award & 2nd Overall",
+      "date": "2022-10-16",
+      "awarder": "EuRoC",
+      "url": "https://euroc.pt/wp-content/uploads/2022/11/EuRoC-2022-Classification.pdf",
+      "summary": "The S3 flight award stands for solid propulsion & 3 kilometers of apogee. It is attributed to the team with the most merit in meters away from the target apogee, but also by the state of the rocket after recovery, and thus honors designs that not only survive the harsh contact with reality, but furthermore represent an incredible achievement in concept, simulation, system integration, control, and practical realization."
+    },
+    {
+      "title": "Winning Team (Mag-AZ): Astro Pi Mission Space Lab 2020/2021",
+      "date": "2021-07-12",
+      "awarder": "The Astro Pi Team",
+      "url": "hhttps://www.esa.int/Education/AstroPI/The_winners_of_the_European_Astro_Pi_Challenge_Mission_Space_Lab_2020-21",
+      "summary": "Challenge run by the European Space Agency, in cooperation with the Raspberry Foundation, in which students are challenged to plan and perform an experiment with the use of a Raspberry Pi on board the International Space Station."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Modelling the Earth’s magnetic field",
+      "publisher": "American Journal of Physics",
+      "releaseDate": "2022-05-23",
+      "url": "https://example.com/",
+      "summary": "Using measurements from a magnetometer on board the International Space Station, we computed the multipolar moments of an expansion in spherical harmonics to order 3, calculated the location of the magnetic dip poles, and produced an intensity map of the magnetic field across the globe."
+    },
+    {
+      "name": "Modelling the Earth's magnetic field with magnetometer data from a Raspberry Pi on board the ISS",
+      "publisher": "",
+      "releaseDate": "2021-07-31",
+      "url": "https://example.com/",
+      "summary": "We used data from a magnetometer on board the ISS to simulate the Earth’s magnetic field. This was our original work within the \"Astro Pi Challenge\", a project ran by ESA and the Raspberry Pi Foundation, and the magnetometer used was the one incorporated in the Raspberry Pi Sense Hat."
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portuguse",
+      "fluency": "Native speaker",
+      "icon": "🇵🇹"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency",
+      "icon": "🇬🇧"
+    },
+    {
+      "language": "French",
+      "fluency": "Basic",
+      "icon": "🇫🇷"
+    }
+  ],
+  "references": [
+    {
+      "name": "Professor Filipe Mena",
+      "icon": "fa-solid fa-chalkboard-user",
+      "reference": "On a personal level, I can testify that Lourenço was among the students who showed the highest interest and enthusiasm in class as well as hard work in solving the weekly exercises. He is very inquisitive and keen on having discussions about maths and physics subjects “outside the box”."
+    },
+    {
+      "name": "Professor Marta Fajardo",
+      "icon": "fa-solid fa-chalkboard-user",
+      "reference": "In our country, largely for financial reasons, students are very seldom prepared to build their own apparatus. They are therefore very trained and become very skilled in “pen and paper” maths and physics, but are afraid to touch and debug complex equipment. This is not the case for Lourenço."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Associação dos Escoteiros de Portugal - Agrupamento 1133",
+      "location": "Azores, Portugal",
+      "position": "Scout",
+      "url": "https://escoteiros.pt/",
+      "startDate": "2012-09-01",
+      "endDate": "2017-02-01",
+      "summary": "Assisted in vounteering initiatives with social and environmental impact. I also had some fun in nature related activities, mainly camping and hiking trips.",
+      "highlights": []
+    }
+  ],
+  "interests": [
+    {
+      "name": "Engineering",
+      "icon": "fa-solid fa-gear"
+    },
+    {
+      "name": "Fitness",
+      "icon": "fa-solid fa-heart"
+    },
+    {
+      "name": "Psicology",
+      "icon": "fa-solid fa-brain"
+    },
+    { "name": "Philosophy",
+      "icon": "fa-solid fa-yin-yang"
+    },
+    {
+      "name": "Astronomy",
+      "icon": "fa-solid fa-star"
+    },
+    {
+      "name": "Cyber-Security",
+      "icon": "fa-solid fa-lock"
+    }
+  ]
+}
