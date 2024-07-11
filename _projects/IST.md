@@ -431,7 +431,7 @@ To provide an overview of Aeroespace Engineering from a technological, operation
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/glider.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.liquid path="assets/video/glider.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
 </div>
 <div class="caption">
@@ -935,4 +935,4 @@ Apply the knowledge acquired during their degree to undertake a project of a sci
 
 ##### <b>References</b>
 
-[^1]: <a href="https://tecnico.ulisboa.pt/en/education/courses/undergraduate-programmes/aerospace-engineering/">https://tecnico.ulisboa.pt/en/education/courses/undergraduate-programmes/aerospace-engineering</a> [accessed 06/23/2024]
+[^1]: <a href="https://tecnico.ulisboa.pt/en/education/courses/undergraduate-programmes/aerospace-engineering/">https://tecnico.ulisboa.pt/en/education/courses/undergraduate-programmes/aerospace-engineering</a> [accessed 23/06/2024]

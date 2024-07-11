@@ -5,77 +5,57 @@ description: A Free-flyer for In Orbit Additive Manufacturing
 img: assets/img/Acrobat_cropped.jpg
 importance: 1
 category: Group projects
-related_publications: true
+related_publications: false
+giscus_comments: true
+toc:
+  sidebar: left
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+### Introduction
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+In the final semester of the Bachelor's Degree in Aerospace Engineering at <a href='https://tecnico.ulisboa.pt/en/'>Instituto Superior Técnico</a> students enroll in a course named 1st Cycle Integrated Project in Aerospace Engineering [^1].
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The integrated project may fall within one of three modalities: 1. Scientific project, 2. Company project and 3. JUNO project. I went for the JUNO project type: multidisciplinary team work based on real and complex problems/challenges posed by companies or other institutions that require inputs from students from different courses of IST or the University of Lisbon.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+### Recruitment
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+For a year and a half I had been part of university project named <a href="/projects/RED/">Rocket Experiment Division</a>. My team leader at that time, Lucas Gonçalves, had joined the Acrobat project outside the Integrated Project course context. A few months before the beggining of the final semester of my degree, Lucas invited me to take part in the project in the context of the Integrated Project course. In total, we were a group of 6 bachelor's degree students, 3 from aerospace engineering (me, Lucas and Alex) and 3 from eletrotechnical and computer engineering (Afonso, David and Inês). As part of the initial agreement, everyone involved would contribute to the evaluation process of both degrees, since they differed from one degree to another.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+### Tasks
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+I was responsible for the following areas of the project:
 
-{% raw %}
+- Dynamics and Kinematics Modelling
+- Control Systems Programming
+- PWM Signal Processing
+- Trajectory and Path Planning
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+Depending on the task in particular, I would be working individually or arranging meetings with a colleague. In the early and final moments of the project, group working was important in order to set goals and to integrate everyone's work.
 
-{% endraw %}
+### My work
+
+#### Propeller study
+
+#### Body dynamics
+
+#### Model Predictive Controller
+
+### LEAer submissions
+
+<object data="/assets/pdf/ist/paer/ACROBAT.pdf" type="application/pdf" width="100%" height="500px"></object>
+
+### LEEC submissions
+
+
+<p style="margin-bottom:1cm;"></p>
+
+
+
+
+
+
+<hr>
+
+##### <b>References</b>
+
+[^1]: <a href="https://fenix.tecnico.ulisboa.pt/cursos/leaer21/disciplina-curricular/1690378868621426">https://fenix.tecnico.ulisboa.pt/cursos/leaer21/disciplina-curricular/1690378868621426</a> [accessed 11/07/2024]
