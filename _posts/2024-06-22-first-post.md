@@ -67,5 +67,3 @@ For the professional related content, there will be more technical stuff, but I 
 
 
 _Lourenço_
-
-<small><ins>Edited:</ins> June 22, 2024</small>
