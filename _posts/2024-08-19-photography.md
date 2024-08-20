@@ -107,7 +107,6 @@ This should be fairly obvious to some people, but the higher the focal length, t
 Santa Iría viewpoint location
 </div>
 
-
 <p style="margin-bottom:1cm;"></p>
 
 
@@ -124,6 +123,22 @@ Wooden plane
 </div>
 
 It is interesting to point out that a random hair was captures on this picture. The camera can preserve so much detail at a close distance that one of the smallest things the human eye can see can be captured.
+
+<p style="margin-bottom:1cm;"></p>
+
+
+### Rooftop experiences
+
+On one day, I captured the city from a rooftop. During the entire day, the sky was very clear, so it allowed for some amazing pictures. I took one on sunrise and one in the beginning of the night. The night picture was very tricky to edit since the camera was not exposed to a lot of light, even though it was full moon. I did my best to make it a decently looking image, but I feel like it still was not enough. Equipment will only take you so far.
+
+<swiper-container keyboard="true" navigation="true" pagination="false" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/photography_introduction/roof.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/photography_introduction/roof_night.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
+<div class="caption">
+Rooftop experiences
+</div>
+
 
 _Lourenço_
 
