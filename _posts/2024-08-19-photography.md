@@ -39,7 +39,7 @@ Morning by the Furnas' lake
 
 One of the keys aspects I learned through this is that too much editing may be doing exactly what you want in general, but the image may lose detail in some areas. This is not optimal, unless it isn't noticeable. The bushes are the main object affected by the editing in negative terms, losing some detail to darker tones. However, it gives the impression that the tree's shadow has some influence in the matter.
 
-Below is a brief description of every functionality I explored [^1].
+Below is a brief description of every functionality I explored[^1].
 
 **Light controls:**
 <ul>
