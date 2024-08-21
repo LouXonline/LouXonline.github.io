@@ -93,18 +93,46 @@ Santa Iria viewpoint
 
 This should be fairly obvious to some people, but the higher the focal length, the closer the image appears to be taken. Additionally, it seems that more detail is preserved from objects at further distances.
 
-<gmp-map
-      center="37.82399557741048, -25.462267996688986"
-      zoom="13"
-      map-id="DEMO_MAP_ID"
-      style="height: 400px"
-></gmp-map>
-<script
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg&libraries=maps&v=beta"
-></script>
+<div id="mapContainer" style="width: 100%; height: 400px;"></div>
+
+<script src="https://js.api.here.com/v3/3.1/mapsjs-core.js"></script>
+<script src="https://js.api.here.com/v3/3.1/mapsjs-service.js"></script>
+<script src="https://js.api.here.com/v3/3.1/mapsjs-ui.js"></script>
+<script src="https://js.api.here.com/v3/3.1/mapsjs-mapevents.js"></script>
+<link rel="stylesheet" type="text/css" href="https://js.api.here.com/v3/3.1/mapsjs-ui.css" />
+
+<script>
+    // Replace 'YOUR_API_KEY' with your actual HERE API key
+    var platform = new H.service.Platform({
+        apikey: 'XS0cL8OT4rvzhAkhaEWK6gMK0M97Oxxxc4cpxgB7CpI'
+    });
+
+    // Obtain the default map types from the platform object:
+    var maptypes = platform.createDefaultLayers();
+
+    // Instantiate (and display) a map object:
+    var map = new H.Map(
+        document.getElementById('mapContainer'),
+        maptypes.raster.satellite.map, // This can be changed to satellite or hybrid
+        {
+            zoom: 13.05,
+            center: { lat: 37.824, lng: -25.462 }
+        });
+
+    // Enable the event system on the map instance:
+    var mapEvents = new H.mapevents.MapEvents(map);
+
+    // Instantiate the default behavior, providing pan/zoom capabilities:
+    var behavior = new H.mapevents.Behavior(mapEvents);
+
+    // Create the default UI:
+    var ui = H.ui.UI.createDefault(map, maptypes);
+</script>
 <div class="caption">
 Santa Iria viewpoint location
 </div>
+
+
 
 <p style="margin-bottom:1cm;"></p>
 
