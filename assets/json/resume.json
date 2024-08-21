@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Lourenço Gouveia Faria",
-    "label": "Aerospace Engineering Student",
+    "label": "MSc Student in Aerospace Engineering",
     "image": "",
     "email": "lourencogfaria@gmail.com",
     "url": "https://louxonline.github.io",
@@ -23,6 +23,15 @@
   },
   "education": [
     {
+      "institution": "ISAE SUPAERO",
+      "location": "Toulouse, France",
+      "url": "https://www.isae-supaero.fr/en/",
+      "area": "Aerospace Engineering",
+      "studyType": "Master's degree",
+      "startDate": "2024-09-09",
+      "endDate": "2026-12-31"
+    },
+    {
       "institution": "Instituto Superior Técnico",
       "location": "Lisbon, Portugal",
       "url": "https://tecnico.ulisboa.pt/en/education/courses/undergraduate-programmes/aerospace-engineering/",
@@ -30,8 +39,18 @@
       "studyType": "Bachelor's degree",
       "startDate": "2021-10-01",
       "endDate": "2024-07-19",
-      "score": "15.75",
+      "score": "15.92",
       "courses": ["Grade: 16/20"]
+    },
+    {
+      "institution": "Escola Secundária Domingos Rebelo",
+      "location": "Azores, Portugal",
+      "url": "https://edu.azores.gov.pt/escolas/escola-secundaria-domingos-rebelo/",
+      "area": "Sciences and Technologies",
+      "studyType": "Secondary/High School",
+      "startDate": "2018-09-01",
+      "endDate": "2021-07-31",
+      "courses": ["Grade: 18.6/20"]
     }
   ],
   "skills": [

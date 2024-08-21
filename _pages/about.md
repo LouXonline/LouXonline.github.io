@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: BSc in Aerospace Engineering at <a href='https://tecnico.ulisboa.pt/en/'>Instituto Superior Técnico</a>
+subtitle: MSc Student in Aerospace Engineering at <a href='https://www.isae-supaero.fr/en/'>ISAE SUPAERO</a>
 
 profile:
   align: right
