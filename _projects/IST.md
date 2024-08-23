@@ -38,6 +38,7 @@ The majority of the courses were evaluated on pen and paper based mid-term tests
 
 
 
+<!--
 ### <b>Description</b>
 
 <p style="margin-bottom:0.5cm;">Aerospace Engineering has played an increasingly important role in the 21st century, through the development of different types of vehicles such as airplanes, helicopters, robotised aircraft and the air traffic management itself. It also brings us closer to Space, particularly through the development of rockets and satellites, thus contributing to the improvement of communication channels. The role of an Aerospace Engineer is to design and conceive air and space vehicles, as well as to develop all associated support and control systems.</p>
@@ -102,7 +103,7 @@ The Aerospace Engineering program has several attractive features:
 - Excellent job prospects both in Portugal and abroad in the aerospace, space, consulting, and other sectors.
 
 <p style="margin-bottom:1cm;"></p>
-
+-->
 
 
 
@@ -893,6 +894,50 @@ To understand the enormous impact that the development and use of technological 
 ###### <u>Objectives</u>
 
 The main objective of the Management course unit is to introduce students to a set of concepts and tools that will enable them to understand the nature of the systemic and integrated functioning of organizations, and evaluate the multidisciplinary methods and resources necessary for their operation. It is intended that students become empowered with the skills that enable them to contribute active and positively to the sustainable growth of organizations, with a particular focus on the following aspects: Culture, ethics, and organizational structure; Accounting and Financial Analysis; Investment Appraisal; Planning and Strategic Management; Marketing Fundamentals. The application of the knowledge acquired is valid for both firms in activity, and entrepreneurial projects, like start-ups resulting from Innovation & Technology Development. The course integrates the simulation management game IST Management Challenge (ISTMC). 
+
+###### <u>Global Management Challenge</u>
+
+The simulation management Global Management Challenge (GMC) provided me and my team, 'Jorge Lda.', with a simple but realisitc approach to enterprise management. We got through the first two rounds: the local IST group (ISTMC) and the Lisbon group. It was unfortunate that in the 3rd round, already national, we misread the market and were unable to make a successful strategic move to catch up with the other enterprises on our competing group. Only the first team in every group qualified to next round. Nonetheless, it was a fun and pleasant experience. Thank you _TAP Portugal_ for sponsoring our entry in the game.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ist/gmc/graph.jpg" title="Global Management Challenge round 2 results" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Global Management Challenge round 2 results
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ist/gmc/page_1.png" title="Decisions for the next quarter" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Decisions for the next quarter
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ist/gmc/page_2.png" title="Resources and products" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Resources and products
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ist/gmc/page_3.png" title="Financial statements" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Financial statements
+</div>
+
+
+
+
 
 <p style="margin-bottom:1cm;"></p>
 

@@ -37,7 +37,7 @@ Morning by the Furnas' lake
 
 <p>I explored a few of the editing functionalities the iPhone provides in the camera app and tried to make the image more pleasant. My main idea with the editing on this one was to make it feel like a calm morning, vegetation standing out with some humidity and vibrant but realistic colors, and displaying a clear blue sky. I believe it was a good result. Nonetheless, it was a first attempt at editing.</p>
 
-One of the keys aspects I learned through this is that too much editing may be doing exactly what you want in general, but the image may lose detail in some areas. This is not optimal, unless it isn't noticeable. The bushes are the main object affected by the editing in negative terms, losing some detail to darker tones. However, it gives the impression that the tree's shadow has some influence in the matter.
+One of the key aspects I learned through this is that too much editing may be doing exactly what you want in general, but the image may lose detail in some areas. This is not optimal, unless it isn't noticeable. The bushes are the main object affected by the editing in negative terms, losing some detail to darker tones. However, it gives the impression that the tree's shadow has some influence in the matter.
 
 Below is a brief description of every functionality I explored[^1].
 

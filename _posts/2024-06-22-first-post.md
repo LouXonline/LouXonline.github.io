@@ -55,7 +55,7 @@ I began to think about how things worked before the internet even existed. How d
 
 ### <b>What to post?</b>
 
-Since social media is out of question at this point, what kind of posts will I be doing in here? Instead of quick 'stories' with pictures and videos from what is happening at the moment (which I find a little privacy obstructive), I will be doing more insightful posts. In the first days of the website, there will be more posts about some work and projects I have laid my hands on. But it will not stay that way for long. As I have mentioned, I want to document what is possible when it comes to my past involvements in projects. Once that stage is over, it will be a mix between this and adventures, experiences, ideas, and goals for the future.
+Since social media is out of question at this point, what kind of posts will I be doing in here? Instead of quick 'stories' with pictures and videos from what is happening at the moment (which I find a little privacy obstructive), I will be doing more insightful posts. On the first days of the website, there will be more posts about some work and projects I have laid my hands on. But it will not stay that way for long. As I have mentioned, I want to document what is possible when it comes to my past involvements in projects. Once that stage is over, it will be a mix between this and adventures, experiences, ideas, and goals for the future.
 
 For the professional related content, there will be more technical stuff, but I will also try to give a simpler view into what is going on. This way, more people may get to know more about my work and in turn it is self proof that I understand the concepts at a great level:
 
