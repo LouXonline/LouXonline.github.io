@@ -897,7 +897,7 @@ The main objective of the Management course unit is to introduce students to a s
 
 ###### <u>Global Management Challenge</u>
 
-The simulation management Global Management Challenge (GMC) provided me and my team, 'Jorge Lda.', with a simple but realisitc approach to enterprise management. We got through the first two rounds: the local IST group (ISTMC) and the Lisbon group. It was unfortunate that in the 3rd round, already national, we misread the market and were unable to make a successful strategic move to catch up with the other enterprises on our competing group. Only the first team in every group qualified to next round. Nonetheless, it was a fun and pleasant experience. Thank you _TAP Portugal_ for sponsoring our entry in the game.
+The simulation management Global Management Challenge (GMC) provided me and my team, 'Jorge Lda.', with a simple but realistic approach to enterprise management. We got through the first two rounds: the local IST group (ISTMC) and the Lisbon group. It was unfortunate that in the 3rd round, already national, we misread the market and were unable to make a successful strategic move to catch up with the other enterprises on our competing group. Only the first team in every group qualified to next round. Nonetheless, it was a fun and pleasant experience. Thank you _TAP Portugal_ for sponsoring our entry in the game.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
