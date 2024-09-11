@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Starting an internship at [NAV Portugal](https://www.nav.pt/en) under the [Estagiar-U programme](https://empregojovem.azores.gov.pt/estagiar-u)
+Started an internship at [NAV Portugal](https://www.nav.pt/en) under the [Estagiar-U programme](https://empregojovem.azores.gov.pt/estagiar-u)
