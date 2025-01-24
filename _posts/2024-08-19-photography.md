@@ -1,11 +1,11 @@
 ---
 layout: post
-title: An introduction to photography
+title: An Introduction to Photography
 date: 2024-08-19 00:00:00
 description: Capturing the marvels of the world
 tags: photography hobbies
 categories: free-time
-featured: false
+featured: true
 related_posts: true
 giscus_comments: true
 thumbnail: assets/img/photography_introduction/wide_earth.jpeg
