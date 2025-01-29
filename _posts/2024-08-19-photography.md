@@ -5,7 +5,7 @@ date: 2024-08-19 00:00:00
 description: Capturing the marvels of the world
 tags: photography hobbies
 categories: free-time
-featured: true
+featured: false
 related_posts: true
 giscus_comments: true
 thumbnail: assets/img/photography_introduction/wide_earth.jpeg
