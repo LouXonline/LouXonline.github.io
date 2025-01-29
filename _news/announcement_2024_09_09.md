@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Beginning of Master's degree at <a href='https://www.isae-supaero.fr/en/'>ISAE SUPAERO</a>
+Beginning of Master's degree at ISAE SUPAERO
