@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+    gem 'nokogiri', '~> 1.16'
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
