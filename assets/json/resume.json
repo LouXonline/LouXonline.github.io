@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Lourenço Gouveia Faria",
-    "label": "MSc Student in Aerospace Engineering",
+    "name": "",
+    "label": "",
     "image": "",
-    "email": "lourencogfaria@gmail.com",
-    "url": "https://louxonline.github.io",
-    "summary": "Born in São Miguel island from the Azores, Portugal, and on a journey to learn more about the engineering world and its impact on society.",
+    "email": "",
+    "url": "",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
@@ -27,16 +27,18 @@
       "location": "Toulouse, France",
       "url": "https://www.isae-supaero.fr/en/",
       "area": "Aerospace Engineering",
-      "studyType": "Master's degree",
+      "studyType": "Master of Science",
       "startDate": "2024-09-09",
-      "endDate": "2026-12-31"
+      "endDate": "2026-12-31",
+      "courses": ["Grade: 16/20"]
+
     },
     {
       "institution": "Instituto Superior Técnico",
       "location": "Lisbon, Portugal",
       "url": "https://tecnico.ulisboa.pt/en/education/courses/undergraduate-programmes/aerospace-engineering/",
       "area": "Aerospace Engineering",
-      "studyType": "Bachelor's degree",
+      "studyType": "Bachelor of Science",
       "startDate": "2021-10-01",
       "endDate": "2024-07-19",
       "score": "15.92",
@@ -58,83 +60,85 @@
       "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "C",
-        "Python"
-      ]
+      "keywords": ["C", "C++", "Python"]
     },
     {
-      "name": "Software development",
+      "name": "Software Development",
       "level": "Master",
       "icon": "fa-solid fa-laptop-code",
-      "keywords": [
-        "GitHub",
-        "Git"
-      ]
+      "keywords": ["GitHub", "Git", "CI/CD"]
     },
     {
-      "name": "Numeric computation",
+      "name": "Numeric Computation & Simulation",
       "level": "Master",
       "icon": "fa-solid fa-chart-line",
-      "keywords": [
-        "MATLAB",
-        "Simulink",
-        "Wolfram Mathematica",
-        "Microsoft Excel"
-      ]
+      "keywords": ["MATLAB", "Simulink", "Wolfram Mathematica", "Microsoft Excel"]
     },
     {
       "name": "Documentation",
       "level": "Master",
       "icon": "fa-solid fa-file",
-      "keywords": [
-        "LaTeX",
-        "Overleaf",
-        "Microsoft Word"
-      ]
+      "keywords": ["LaTeX", "Overleaf", "Microsoft Word"]
     },
     {
-      "name": "Rocketry software",
+      "name": "Rocketry Software",
       "level": "Master",
       "icon": "fa-solid fa-rocket",
-      "keywords": [
-        "RocketPy",
-        "OpenRocket"
-      ]
+      "keywords": ["RocketPy", "OpenRocket"]
     },
     {
-      "name": "CAD",
+      "name": "CAD & PCB Design",
       "level": "Master",
       "icon": "fa-solid fa-computer",
-      "keywords": [
-        "Solidworks"
-      ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Acrobat: A Free-flyer for In-Orbit Additive Manufacturing",
-      "summary": "",
-      "highlights": ["Model Predictive Controller", "Robot Operating System"],
-      "startDate": "2024-01-02",
-      "endDate": "",
-      "url": "https://example.com"
+      "keywords": ["SolidWorks", "KiCad"]
     },
     {
-      "name": "Rocket Experiment Division - Navigation Systems",
-      "summary": "",
-      "highlights": ["Kalman Filter", "Data analysis"],
-      "startDate": "2022-04-12",
-      "endDate": "",
-      "url": "https://example.com"
+      "name": "Systems Engineering",
+      "level": "Advanced",
+      "icon": "fa-solid fa-cogs",
+      "keywords": ["SysML", "INNOslate", "IBM Rhapsody", "Functional Analysis", "Requirements Engineering", "Verification & Validation"]
     },
     {
-      "name": "Astro Pi Mission Space Lab 2020/2021: Earth's magnetic field study",
-      "summary": "Challenge run by the European Space Agency, in cooperation with the Raspberry Foundation, in which students are challenged to plan and perform an experiment with the use of a Raspberry Pi, named Astro Pi, on board the International Space Station. Our team developed an algorithm that predicts the location of Earth's magnetic poles by using the Astro Pi to map Earth’s magnetic field.",
-      "highlights": ["Raspberry Pi", "Python", "Eletromagnetism"],
-      "startDate": "2020-10-12",
-      "endDate": "2021-06-30",
-      "url": "https://example.com"
+      "name": "Networking & Communication",
+      "level": "Advanced",
+      "icon": "fa-solid fa-network-wired",
+      "keywords": ["TCP/IP", "UDP", "ROS2 DDS", "Meshed Networks", "Cisco Packet Tracer", "Wireshark"]
+    },
+    {
+      "name": "Guidance, Navigation & Control",
+      "level": "Advanced",
+      "icon": "fa-solid fa-compass",
+      "keywords": ["Kalman Filtering", "Model Predictive Control", "Flight Software", "Trajectory Optimization", "Sensor Fusion", "ROS Integration"]
+    },
+    {
+      "name": "Electronics & Embedded Systems",
+      "level": "Advanced",
+      "icon": "fa-solid fa-microchip",
+      "keywords": ["PCB Design", "Power Distribution Systems", "Signal Conditioning", "Embedded Systems", "VHDL", "FPGA Reconfiguration", "Xilinx Vivado", "Soldering"]
+    },
+    {
+      "name": "Front-End Development & HMI",
+      "level": "Advanced",
+      "icon": "fa-solid fa-desktop",
+      "keywords": ["Qt", "ROS2 rclcpp", "Operator Interfaces", "Supervisory Control", "User Experience Design"]
+    },
+    {
+      "name": "Web Development",
+      "level": "Advanced",
+      "icon": "fa-solid fa-globe",
+      "keywords": ["HTML", "CSS", "Bootstrap"]
+    },
+        {
+      "name": "Containerization & Virtualization",
+      "level": "Advanced",
+      "icon": "fa-solid fa-boxes-stacked",
+      "keywords": ["Docker", "Docker Compose", "VirtualBox", "VMware"]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "Advanced",
+      "icon": "fa-solid fa-desktop",
+      "keywords": ["Ubuntu", "Fedora", "Windows", "Kali Linux", "Tails", "Puppy Linux"]
     }
   ],
   "work": [
