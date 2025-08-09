@@ -10,4 +10,10 @@ children:
   - title: divider
   - title: Publications
     permalink: /publications/
+  - title: divider  
+  - title: Bookshelf
+    permalink: /books/
+  - title: divider  
+  - title: Repositories
+    permalink: /repositories/
 ---
