@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Participant at 24th CVA Summer School (29th June - 19th July)
+Joined the 24th CVA Summer School as a participant (29th June - 19th July)

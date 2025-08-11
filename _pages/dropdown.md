@@ -14,6 +14,12 @@ children:
   - title: Bookshelf
     permalink: /books/
   - title: divider  
+  - title: Film Collection
+    permalink: /movies/
+  - title: divider  
+  - title: TV Library
+    permalink: /series/
+  - title: divider  
   - title: Repositories
     permalink: /repositories/
 ---

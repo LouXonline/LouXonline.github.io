@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Participant at ESA Navigation Training Course 2025 (23rd-27th June)
+Joined the ESA Navigation Training Course 2025 as a participant (23rd-27th June)

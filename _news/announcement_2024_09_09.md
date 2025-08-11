@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Beginning of Master's degree at ISAE SUPAERO
+Beginning of Master of Science in Aerospace Engineering at ISAE SUPAERO
